@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s2000964\\Desktop\\Coding\\Git\\nuget\\NuGet\\NuGet\\NuGet.csproj": {}
+    "C:\\Users\\s2000964\\Documents\\Coding\\NETFRAM.22\\Projects\\nuget\\NuGet\\NuGet\\NuGet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s2000964\\Desktop\\Coding\\Git\\nuget\\NuGet\\NuGet\\NuGet.csproj": {
+    "C:\\Users\\s2000964\\Documents\\Coding\\NETFRAM.22\\Projects\\nuget\\NuGet\\NuGet\\NuGet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s2000964\\Desktop\\Coding\\Git\\nuget\\NuGet\\NuGet\\NuGet.csproj",
+        "projectUniqueName": "C:\\Users\\s2000964\\Documents\\Coding\\NETFRAM.22\\Projects\\nuget\\NuGet\\NuGet\\NuGet.csproj",
         "projectName": "NuGet",
-        "projectPath": "C:\\Users\\s2000964\\Desktop\\Coding\\Git\\nuget\\NuGet\\NuGet\\NuGet.csproj",
+        "projectPath": "C:\\Users\\s2000964\\Documents\\Coding\\NETFRAM.22\\Projects\\nuget\\NuGet\\NuGet\\NuGet.csproj",
         "packagesPath": "C:\\Users\\s2000964\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s2000964\\Desktop\\Coding\\Git\\nuget\\NuGet\\NuGet\\obj\\",
+        "outputPath": "C:\\Users\\s2000964\\Documents\\Coding\\NETFRAM.22\\Projects\\nuget\\NuGet\\NuGet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s2000964\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,7 +51,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -60,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

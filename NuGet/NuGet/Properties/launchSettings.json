@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NuGet": {
+      "commandName": "Project",
+      "commandLineArgs": "--interactive"
+    }
+  }
+}

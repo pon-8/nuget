@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5Iw1pKM7c4a87VrPbSI5XybgByQUytXpZ6KYMPuxCUogbOZtrpi2f9Ipb4hrblPdP+kbXlYOSNKRL6WkpBFm0A==",
+  "dgSpecHash": "woOEinjRwq1mywT1W/A1SpdwiTiqkPGejNvPY9EIcianNg3iHACxg5+OJjaxXtP+NDWSkS8/Rx91VcaF6rrapg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\s2000964\\Desktop\\Coding\\Git\\nuget\\NuGet\\NuGet\\NuGet.csproj",
+  "projectFilePath": "C:\\Users\\s2000964\\Documents\\Coding\\NETFRAM.22\\Projects\\nuget\\NuGet\\NuGet\\NuGet.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\s2000964\\.nuget\\packages\\faker.net\\2.0.154\\faker.net.2.0.154.nupkg.sha512",
     "C:\\Users\\s2000964\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
